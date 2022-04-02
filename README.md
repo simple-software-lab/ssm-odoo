@@ -1,1 +1,1 @@
-# ssm-odoo
+# Simple Software Management - Odoo Customizations
